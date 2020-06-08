@@ -131,6 +131,12 @@ function getUnique(weatherStates) {
 console.log(getUnique(getWeatherStateNames(weather)));
 
 //find the id of the object in weather that has a min_temp of 15.915
+const idealTemp = [];
+/*
+function temps
+for(let i=0; i<weather.length)
 
-const idealTemp =
+
+
 console.log(idealTemp)
+*/
